@@ -11,3 +11,17 @@ In this project, we have created 4 models, each containing the code for a differ
 **text_classifier**: This folder contains the code for training a text classifier that can classify text into multiple classes.
 
 **theme_classifier**: This folder contains the code for extracting the main themes of the series using Zero-shot classifiers.
+
+
+## Output
+
+#Theme Classifier
+
+<img width="1244" height="395" alt="theme_classifier" src="https://github.com/user-attachments/assets/4a9cbfa3-0d09-4656-add5-1ec4b2494b41" />
+
+#Character Network
+<img width="1137" height="410" alt="character_network" src="https://github.com/user-attachments/assets/72a9c60d-a3a6-447f-851b-493aa7ed7557" />
+
+#Text Classifier
+<img width="1001" height="290" alt="Untitled" src="https://github.com/user-attachments/assets/96ed155b-76d1-4a5c-af58-825552100241" />
+
